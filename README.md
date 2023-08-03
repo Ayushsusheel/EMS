@@ -21,6 +21,6 @@ Hi, this repository consists the code for the Employee Management System.
 
 * Creating classes for exception handling
 * Creating the table using @Table(name="employee_management_table") we use @Id,@Column,@GeneratedValue(strategy=GenerationType.AUTO) means auto increment the ID.
-* Creating DTO layer(simple words:- response)
+* Creating DTO layer (get and set the values)
 * Creating Service (add detail,delete detail,update detail,getALl details,getDetailByID)
 * Creating the implementations for all these services/microservices...
