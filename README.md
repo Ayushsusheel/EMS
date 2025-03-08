@@ -17,7 +17,7 @@ Hi, this repository consists the code for the Employee Management System.
 * @PutMapping("/details/{id}") :- in order to update the record/details of the employee using his/her EMP__ID.
 * @DeleteMapping("/details/{id}") :- delete the record/details on an employee based on the employee ID.
 
-=======================================================================================================
+===========================================================================================================
 
 * Creating classes for exception handling
 * Creating the table using @Table(name="employee_management_table") we use @Id,@Column,@GeneratedValue(strategy=GenerationType.AUTO) means auto increment the ID.
